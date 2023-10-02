@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan4s&label=Profile%20views&color=0e75b6&style=flat" alt="rohan4s" /> </p>
 
-- 🔭 I’m currently working on **SwipeWipe**
+- 🔭 I’m currently working on **Swipely**
 
 - 🌱 I’m currently learning **Flutter Animations**
 
